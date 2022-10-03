@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+width: 100vw;
+}
+.container{
+    max-width: 100%;
+
+}
+.top-icons{
+    background-color: #C5D2FC;
+}
+.email{
+    text-decoration: none;
+}
+.nav-link{
+    font-size: 20px;
+}
+.navbar{
+    background-color: #C5D2FC;
+    margin-bottom: 3em;
+}
+.line1{
+    margin: 1px;
+    color: black;
+}
+
+.nav-item{
+margin-left: 2em;
+}
+.brand-logo{
+    height: 25vh;
+    width: 40vh;
+}
+.home{
+    /* The image used */
+    background-image: url("images/bg-rocks.jpg");
+    height:auto;
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+.carousel-item>img{
+    width: 30em;
+    height: 40em;
+}
+.card {
+    border: 2px solid darkgreen;
+    border-radius: 8px;
+    font-size: 20px;
+    height: 12rem;
+    width: 20rem;
+    margin: 10px 10px;
+    color: white;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.card-header{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.services{
+  background-color: #C5D2FC;
+
+}
+.vscomp-ele{
+    max-width: inherit;
+}
+.vscomp-toggle-button{
+    padding: 10px;
+   border-radius: 5px;
+}
+.vscomp-option-text{
+    font-size: inherit;
+    font-family: inherit;
+}
+footer{
+    background-color: #050505;
+
+}
+.footer-link{
+
+    color: white;
+    text-decoration: none;
+}
+.footer-item{
+    padding: 1em;
+}
