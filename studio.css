@@ -21,7 +21,8 @@ width: 100vw;
 }
 .navbar{
     background-color: #C5D2FC;
-    margin-bottom: 3em;
+
+
 }
 .line1{
     margin: 1px;
@@ -32,8 +33,8 @@ width: 100vw;
 margin-left: 2em;
 }
 .brand-logo{
-    height: 25vh;
-    width: 40vh;
+    height: 10vh;
+    width: 20vh;
 }
 .home{
     /* The image used */
@@ -45,6 +46,9 @@ margin-left: 2em;
     background-size: cover;
     width: 100%;
     margin: 0;
+}
+#carousel{
+    background-color: black;
 }
 .carousel-item>img{
     width: 30em;
