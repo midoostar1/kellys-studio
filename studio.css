@@ -5,6 +5,7 @@
 
 body{
 width: 100vw;
+    background-color: black;
 }
 .container{
     max-width: 100%;
@@ -85,6 +86,12 @@ margin-left: 2em;
 .vscomp-option-text{
     font-size: inherit;
     font-family: inherit;
+}
+iframe{
+    border-radius: 10px;
+    height: 30vh;
+    width: 45vw;
+
 }
 footer{
     background-color: #050505;
