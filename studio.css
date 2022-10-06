@@ -51,8 +51,8 @@ margin-left: 2em;
     background-color: black;
 }
 .carousel-item>img{
-    width: 30em;
-    height: 40em;
+    width: 100vw;
+    height: auto;
 }
 .card {
     border: 2px solid darkgreen;
